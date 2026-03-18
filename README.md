@@ -1,7 +1,65 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-<p> This README is a work in progress. </p>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Luc%C3%ADa+Ponce+Garc%C3%ADa+de+Sola;Software+Engineering+Student)](https://git.io/typing-svg)
+
+</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucia-ponce-garcia-de-sola/">
+    <img src="https://img.shields.io/static/v1?label=Contact+me+on&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
+<h3 align="center">
+✨​ Creative developer with a focus on building innovative web and mobile solutions ✨
+</h3>
+<h3 align="center">
+❤️‍🔥​ I love the entire process of creation, from strategic planning and design to frontend implementation ❤️‍🔥
+</h3>
+<h3 align="center">
+👑​ I pride myself on my leadership skills, which help me bridge the gap between complex ideas and clear execution 👑
+</h3>
+<h3 align="center">
+🔎​ I’m currently looking for internship opportunities to apply my technical skills and passion to real-world projects 🔎
+</h3>
+<br>
+<div align="center" >
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
+<td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaponce-us&theme=dark&hide_border=true"></td>
+<td>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=My%20Projects&reversal=false&animation=fadeIn&fontSize=32&fontAlignY=35" width="100%">
+
+<div align="center">
+<table width="100%">
+<tr>
+<td align="right"><img src="https://avatars.githubusercontent.com/u/259302099?s=400&u=00e0f251967c68a53f504ab0616addb761406545&v=4" width="110"> </td>
+  <td align="left"><a href="https://github.com/KeaKit/KeaKit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeaKit&repo=KeaKit&theme=dark" />
+  </a></td>
+  <td align="right">
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  </td>
+  </tr>
+</table>
+</div>
 
 <h2 align="center">Languages</h2>
+<div align="center">
+<table width="100%">
+<tr>
+<td align="left">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&layout=compact" width="200%">
+
+</div></td><td align="right">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
@@ -10,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
@@ -18,9 +76,11 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
 </div>
+</td></tr>
+</table>
 <h2 align="center">Frameworks / Libraries</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
@@ -103,29 +163,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
 </div>
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+<div align="left">
+
+## Do you want a README like this?
+
+Visit this sites:
+
+- https://readme-typing-svg.demolab.com/demo
+- https://gh-stats-gen.vercel.app/
+- https://skillicons.dev
+- https://github.com/anuraghazra/github-readme-stats
+- https://capsule-render.vercel.app/
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=luciaponce-us&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=luciaponce-us&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###

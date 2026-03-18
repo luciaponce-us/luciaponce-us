@@ -61,17 +61,17 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <br>
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
-  <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <br>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo"  />
 </div>
 </td></tr>

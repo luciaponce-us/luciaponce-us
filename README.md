@@ -8,18 +8,16 @@
     <img src="https://img.shields.io/static/v1?label=Contact+me+on&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin" />
   </a>
 </div>
-<h3 align="center">
-✨​ Creative developer with a focus on building innovative web and mobile solutions ✨
-</h3>
-<h3 align="center">
-❤️‍🔥​ I love the entire process of creation, from strategic planning and design to frontend implementation ❤️‍🔥
-</h3>
-<h3 align="center">
-👑​ I pride myself on my leadership skills, which help me bridge the gap between complex ideas and clear execution 👑
-</h3>
-<h3 align="center">
-🔎​ I’m currently looking for internship opportunities to apply my technical skills and passion to real-world projects 🔎
-</h3>
+<h3 align="center">About me</h3>
+
+✨​ Creative developer with a focus on building innovative web and mobile solutions  
+
+❤️‍🔥​ I love the entire process of creation, from strategic planning and design to frontend implementation
+
+👑​ I pride myself on my leadership skills, which help me bridge the gap between complex ideas and clear execution
+
+🔎​ I’m currently looking for internship opportunities to apply my technical skills and passion to real-world projects
+
 <br>
 <div align="center" >
 <table>

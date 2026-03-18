@@ -24,9 +24,6 @@
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
 <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaponce-us&theme=dark&hide_border=true"></td>
-<td>
-
-</td>
 </tr>
 </table>
 </div>

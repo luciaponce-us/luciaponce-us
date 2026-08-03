@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
-<td> <img src="https://streak-stats.demolab.com/?user=luciaponce-us&theme=dark"> </td>
+<td> <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=luciaponce-us&theme=dark"> </td>
 </tr>
 </table>
 </div>
@@ -169,6 +169,6 @@ Visit this sites:
 - [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
 - [Skill Icons](https://skillicons.dev)
 - [Capsule-Render](https://capsule-render.vercel.app/)
-- [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
+- [GitHub Readme Stats Fast](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>

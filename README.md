@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
-<td> <img src="https://streak-stats.demolab.com/?user=luciaponce-us"></td>
+<td> <img src="https://streak-stats.demolab.com?user=luciaponce-us&theme=dark"></td>
 </tr>
 </table>
 </div>
@@ -35,7 +35,7 @@
 <tr>
 <td align="right"><img src="https://avatars.githubusercontent.com/u/259302099?s=400&u=00e0f251967c68a53f504ab0616addb761406545&v=4" width="110"> </td>
   <td align="left"><a href="https://github.com/KeaKit/KeaKit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeaKit&repo=KeaKit&theme=dark" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=KeaKit&repo=KeaKit&theme=dark" />
   </a></td>
   <td align="right">
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />

@@ -22,8 +22,8 @@
 <div align="center" >
 <table>
 <tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
-<td> <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=luciaponce-us&theme=dark"> </td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true"> </td>
+<td> <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=luciaponce-us&theme=midnight-purple&hide_border=true"> </td>
 </tr>
 </table>
 </div>
@@ -35,11 +35,59 @@
 <tr>
 <td align="right"><img src="https://avatars.githubusercontent.com/u/259302099?s=400&u=00e0f251967c68a53f504ab0616addb761406545&v=4" width="110"> </td>
   <td align="left"><a href="https://github.com/KeaKit/KeaKit">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=KeaKit&repo=KeaKit&theme=dark" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=KeaKit&repo=KeaKit&theme=midnight-purple&hide_border=true" />
   </a></td>
   <td align="right">
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  </td>
+  </tr>
+
+  <tr>
+<td align="right"><img src="https://raw.githubusercontent.com/luciaponce-us/TFG-Cultura/refs/heads/main/frontend/public/logo_blanco.png" width="110"> </td>
+  <td align="left"><a href="https://github.com/luciaponce-us/TFG-Cultura">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=luciaponce-us&repo=TFG-Cultura&theme=midnight-purple&hide_border=true" />
+  </a></td>
+  <td align="right">
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  </td>
+  </tr>
+  
+   <tr>
+<td align="right"><img src="https://raw.githubusercontent.com/luciaponce-us/NailUS/refs/heads/main/nailus/static/img/marca.png" width="110"> </td>
+  <td align="left"><a href="https://github.com/luciaponce-us/NailUS">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=luciaponce-us&repo=NailUS&theme=midnight-purple&hide_border=true" />
+  </a></td>
+  <td align="right">
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  </td>
+  </tr>
+
+  <tr>
+<td align="right"><img src="https://raw.githubusercontent.com/luciaponce-us/Upstream/refs/heads/main/frontend/public/logo_upstream_500x500.png" width="110"> </td>
+  <td align="left"><a href="https://github.com/luciaponce-us/Upstream">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=luciaponce-us&repo=Upstream&theme=midnight-purple&hide_border=true" />
+  </a></td>
+  <td align="right">
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
   </td>
   </tr>
@@ -52,7 +100,7 @@
 <tr>
 <td align="left">
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&layout=compact" width="200%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luciaponce-us&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact" width="200%">
 
 </div></td><td align="right">
 <div align="center">

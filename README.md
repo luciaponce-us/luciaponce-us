@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
-<td> <img src="https://streak-stats.demolab.com?user=luciaponce-us&theme=dark"></td>
+<td> <img src="https://streak-stats.demolab.com/?user=luciaponce-us&theme=dark"> </td>
 </tr>
 </table>
 </div>

@@ -22,8 +22,8 @@
 <div align="center" >
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
-<td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaponce-us&theme=dark&hide_border=true"></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&count_private=true"> </td>
+<td> <img src="https://streak-stats.demolab.com/?user=luciaponce-us"></td>
 </tr>
 </table>
 </div>
@@ -52,7 +52,7 @@
 <tr>
 <td align="left">
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&layout=compact" width="200%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luciaponce-us&theme=dark&show_icons=true&hide_border=true&layout=compact" width="200%">
 
 </div></td><td align="right">
 <div align="center">
@@ -165,10 +165,10 @@
 
 Visit this sites:
 
-- https://readme-typing-svg.demolab.com/demo
-- https://gh-stats-gen.vercel.app/
-- https://skillicons.dev
-- https://github.com/anuraghazra/github-readme-stats
-- https://capsule-render.vercel.app/
+- [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo)
+- [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
+- [Skill Icons](https://skillicons.dev)
+- [Capsule-Render](https://capsule-render.vercel.app/)
+- [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
 
 </div>
